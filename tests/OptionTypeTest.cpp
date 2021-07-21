@@ -279,7 +279,7 @@ TEST_CASE_METHOD(TApp, "mapInput", "[optiontype]") {
 
     CHECK(vals.at(5) == "test");
 
-    
+
 }
 
 TEST_CASE_METHOD(TApp, "CallbackBoolFlags", "[optiontype]") {
